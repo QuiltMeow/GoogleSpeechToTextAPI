@@ -1,0 +1,7 @@
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\bin\Release\ConvertFLAC.exe.config
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\bin\Release\ConvertFLAC.exe
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\bin\Release\ConvertFLAC.pdb
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\obj\Release\ConvertFLAC.csprojAssemblyReference.cache
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\obj\Release\ConvertFLAC.csproj.CoreCompileInputs.cache
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\obj\Release\ConvertFLAC.exe
+E:\User Data\repos\GoogleSpeechToTextAPI\ConvertFLAC\obj\Release\ConvertFLAC.pdb

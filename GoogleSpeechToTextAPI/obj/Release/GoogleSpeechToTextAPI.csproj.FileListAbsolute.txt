@@ -1,0 +1,6 @@
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\bin\Release\GoogleSpeechToTextAPI.dll
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\bin\Release\GoogleSpeechToTextAPI.pdb
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\obj\Release\GoogleSpeechToTextAPI.csprojAssemblyReference.cache
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\obj\Release\GoogleSpeechToTextAPI.csproj.CoreCompileInputs.cache
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\obj\Release\GoogleSpeechToTextAPI.dll
+E:\User Data\repos\GoogleSpeechToTextAPI\GoogleSpeechToTextAPI\obj\Release\GoogleSpeechToTextAPI.pdb
